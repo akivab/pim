@@ -13,7 +13,7 @@ body{
 #main{
     width: 960px;
     padding: 20px;
-    min-height: 750px;
+    min-height: 650px;
     margin: auto;
     margin-top: 10px;
     font-family: Myriad Pro, Helvetica, Sans Serif;
@@ -66,8 +66,15 @@ body{
 }
 
 .footer{
-    position: absolute;
-    top: 700px;
+    position: relative;
+    width: 960px;
+    margin: auto;
+}
+
+.footer iframe{
+    position: relative;
+    left: 750px;
+    top: -650px;
 }
 
 #body-text p{
