@@ -1,9 +1,18 @@
 var jQueryScriptOutputted = false;
-function loadpage(path){
-    try{
+function loadpage(p){
+    if(p){
+	href = p.attr("href");
+    }
+    else{
+	href = window.location.href;
+    }
+    var paths = href.split("/");
+    var path=paths[paths.length-1];
+		
+    if(path!=""){
 	$(".body").load(path+".html");
     }
-    except (err){
+    else{
 	$(".body").load("main.html");
     }
 }
@@ -21,11 +30,9 @@ function initJQuery() {
         }
         setTimeout("initJQuery()", 50);
     } else {
-	
         $(function() {
-		var paths = window.location.href.split("/");
-		var path=paths[paths.length-1];
-		loadpage(path);
+		loadpage();
+		$("a").click(function(){loadpage($(this))});
 	    });
     }
     
