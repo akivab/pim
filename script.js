@@ -28,9 +28,9 @@ function instructors(){
 
 function contact(){
     var text = "<p>For any inquiries, please contact us at:</p>";
-	text += "<p>BM & BW LLC.<br />(315) 332 1088.</p>";
+	text += "<p>(315) 332 1088.</p>";
 	text += "<p>Or, email us at:</p>";
-	text += "contact@palmyrainmotion.com";
+	text += "<a href='mailto:contact@palmyrainmotion.com'>contact@palmyrainmotion.com</a>";
     $("#body-text").html(text);
 
     $("#image").html("<img src='contact.jpg' />");
