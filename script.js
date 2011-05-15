@@ -33,7 +33,7 @@ function contact(){
 	text += "<a href='mailto:contact@palmyrainmotion.com'>contact@palmyrainmotion.com</a>";
     $("#body-text").html(text);
 
-    $("#image").html("<img src='contact.jpg' />");
+    $("#image").html("<img width=400 height=400 src='contact.png' />");
 }
 
 function initJQuery() {
