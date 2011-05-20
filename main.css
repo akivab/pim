@@ -90,6 +90,7 @@ body{
 }
 
 #image img{
+    max-height: 400px;
     -moz-border-radius: 15px;
     border-radius: 15px;
 }
