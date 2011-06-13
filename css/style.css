@@ -1,7 +1,7 @@
 a{ text-decoration: none; }
 .header{ height: 60px; padding-left: 30px; padding-right: 30px; background: black; }
 #logo{ height: 50px; padding: 5px; font-size: 30px; font-family: 'The Girl Next Door'; color: white;}
-.main_img{ width: 600px; height: 600px; position: absolute; background: url('/dance-studio-new/images/background.png'); }
+.main_img{ width: 600px; height: 600px; position: absolute; background: url('/images/background.png'); }
 .main_img img{ width: 280px; height: 280px; position: absolute; top: 60px; left: 90px;}
 .body-text{ position: absolute; top: 130px; right: -1px; width: 500px; font-family: helvetica; }
 .body-text h1{ font-size: 36px; color: white; margin-bottom: 20px; margin-right: 20px; text-align: left;}
@@ -48,11 +48,11 @@ a{ text-decoration: none; }
 .directions-and-parking h3{ font-size: 20pt; font-family: helvetica; color:black; }
 .directions-and-parking h2{ color: white; font-size: 20pt; font-family: helvetica; margin-bottom: 30px; }
 #icon img{ width: 100px; height: 100px;}
-#icon {position: absolute; top: 15; right: 15px; width: 120px; height: 120px; font-family: 'The Girl Next Door'; text-align: center;}
+#icon {position: absolute; top: 15px; right: 15px; width: 120px; height: 120px; font-family: 'The Girl Next Door'; text-align: center;}
 .place-image{ float: right; width: 400px; height: 200px; }
 .place-image img{ width: 380px; height: 190px; padding: 10px; padding-bottom: 30px; background: #FFF;}
 .place-image span{ position: relative; font-size: 11px; top: -22px; left: 10px; font-family: helvetica;}
-a.place-image { color: black; }
+a.place-image { color: black; z-index:9999;}
 #parking a{ float: left; }
 
 #parking p{ position: relative; left: 30px; margin-right: 30px; }

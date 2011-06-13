@@ -2,35 +2,35 @@
       <div class="main-top">
         <div class="body">
           <div class="main_img">
-            <img src="/dance-studio-new/images/dancers2.png" />
+            <img src="/images/dancers2.png" />
           </div>
           <div class="body-text">
             <h1>Fitness. Wellness. Health.</h1>
-            <p>A new fitness center is coming to Palmyra this summer. Conveniently located at <a href="/dance-studio-new?p=directions">112 Fayette Street</a>.</p>
+            <p>A new fitness center is coming to Palmyra this summer. Conveniently located at <a href="?p=directions">112 Fayette Street</a>.</p>
           </div>
         </div>
       </div>
       <div class="main-bottom">
         <div class="body">
           <div class="options">
-            <a href="/dance-studio-new?p=directions">
-              <img src="/dance-studio-new/images/Maps.png" />
+            <a href="?p=directions">
+              <img src="/images/Maps.png" />
               <div class="option-text">
                 <h3>Direction &amp; Parking</h3>
                 <p>Get information about parking and directions.</p>
               </div>
             </a>
 
-            <a href="/dance-studio-new?p=instructors">
-              <img src="/dance-studio-new/images/Account.png" />
+            <a href="?p=instructors">
+              <img src="/images/Account.png" />
               <div class="option-text">
                 <h3>Meet the Instructors</h3>
                 <p>Learn about Palmyra in Motion's instructors</p>
               </div>
             </a>
 
-            <a href="/dance-studio-new?p=contact">
-              <img src="/dance-studio-new/images/Mail.png" />
+            <a href="?p=contact">
+              <img src="/images/Mail.png" />
               <div class="option-text">
                 <h3>Contact us</h3>
                 <p>Drop us a line. We'll get back to you as soon as possible.</p>
