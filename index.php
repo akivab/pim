@@ -48,7 +48,7 @@
 
 	<a target="_blank" href="https://www.facebook.com/pages/Palmyra-In-Motion/210715818959695"><img src='/images/Facebook.png' /></a>
 	<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-	<a href="http://twitter.com/share" target="_blank"><img src='/images/Twitter.png' /></a>
+	<a href="http://twitter.com/#!/palmyrainmotion" target="_blank"><img src='/images/Twitter.png' /></a>
       </div>
     </div>
     <script type="text/javascript"> 
