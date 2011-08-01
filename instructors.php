@@ -37,7 +37,7 @@
 		  <img src="/images/Woman.png">
 		  <div class="instructor-text">
                     <h3>Carol Fague</h3>
-                    <p>Teaching Zumba&reg; on Wednesdays from 5-6pm!</p>
+                    <p>Teaching Zumba&reg; on Tuesdays from 4-5pm!</p>
 		  </div>
 		</a>
 	      </div>
