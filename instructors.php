@@ -19,28 +19,25 @@
 	      <p><a href="javascript: apply()">Apply to instruct.</a></p>
 	      <p>Our current instructors are:</p>
 	      <div id="instructors">
-		<a href="?p=instructors">
-		  <img src="/images/Man1.png">
-		  <div class="instructor-text">
-                    <h3>Sam Dance-Instructor</h3>
-                    <p>Zumba dance instructor of many years, fan of music, likes to dance a lot, etc</p>
-		    <span>www.sam-dance-instructor.com</span>
-		  </div>
-		</a>
-		<a href="?p=instructors">
+		<a target="_blank" href="https://www.facebook.com/profile.php?id=1409804050">
 		  <img src="/images/Woman.png">
 		  <div class="instructor-text">
-                    <h3>Nancy Ballerina</h3>
-                    <p>Ballerina, professional. I like to dance! Come join me in my tutu while I spin and dance.</p>
-		    <span>www.nancy-ballet.com</span>
+                    <h3>Jennifer Refici</h3>
+                    <p>Hey Everyone! I will be teaching Zumba&reg; on Wednesdays and Fridays from 5-6.</p>
 		  </div>
 		</a>
-		<a href="?p=instructors">
-		  <img src="/images/Man2.png">
+		<a target="_blank" href="https://www.facebook.com/profile.php?id=1402701845">
+		  <img src="/images/Woman.png">
 		  <div class="instructor-text">
-                    <h3>Hungry Jake</h3>
-                    <p>My name is Hungry Jake, OK, OK. I'm not a dance instructor. But I enjoy burritos! Please join my burrito eating class.</p>
-		    <span>www.hungry-jake.com</span>
+                    <h3>Heidi Muller</h3>
+                    <p>Teaching Zumba&reg;, Turbokick&reg;, and Yoga on Mondays, Tuesdays, and Thursdays, as well as Zumba&reg; on Saturdays with Jennifer Refici!</p>
+		  </div>
+		</a>
+		<a href="https://www.facebook.com/profile.php?id=677173242">
+		  <img src="/images/Woman.png">
+		  <div class="instructor-text">
+                    <h3>Carol Fague</h3>
+                    <p>Teaching Zumba&reg; on Wednesdays from 5-6pm!</p>
 		  </div>
 		</a>
 	      </div>
