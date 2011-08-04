@@ -14,8 +14,8 @@
 	    </div>
 	    <div id="directions">
 	      <h2>Directions</h2>
-	      <a href="/images/112_Fayette.png" rel="lightbox[pim]" title="The new home of Palmyra in Motion" class="place-image">
-		<img src="/images/112_Fayette.png" />
+	      <a href="/images/112_Fayette_small.png" rel="lightbox[pim]" title="The new home of Palmyra in Motion" class="place-image">
+		<img src="/images/112_Fayette_small.png" />
 		<span>The new home of Palmyra in Motion, on 112 Fayette Street</span>
 	      </a>
 	      <p>This location is conveniently right off of East Main Street in Palmyra.</p>
