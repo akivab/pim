@@ -19,7 +19,7 @@
 		<span>The new home of Palmyra in Motion, on 112 Fayette Street</span>
 	      </a>
 	      <p>This location is conveniently right off of East Main Street in Palmyra.</p>
-	      <p>112 Fayette Street, the new home of Palmyra in Motion, is only a few minutes of driving from nearby areas in Rochester, Pittsford, and Brighton. </p>
+	      <p>112 Fayette Street, the new home of Palmyra in Motion, is only a few minutes of driving from nearby areas in Macedon, Newark, Marion, Walworth, Williamson, Port Gibson, Manchester, Clifton Springs, Lyons, Farmington, and Fairport.</p>
 	    </div>
 	    <div id="parking">
 	      <h2>Parking</h2>
