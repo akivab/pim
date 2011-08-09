@@ -23,7 +23,7 @@
 		  <img src="/images/Woman.png">
 		  <div class="instructor-text">
                     <h3>Heidi Muller</h3>
-                    <p>Teaching Zumba&reg;, Turbokick&reg;, and Yoga on Mondays, Tuesdays, and Thursdays, as well as Zumba&reg; on Saturdays with Jennifer Refici!</p>
+                    <p>Teaching Zumba&reg;, Turbokick&reg;, and Yoga on Mondays, Tuesdays, Wednesdays, and Thursdays, as well as Zumba&reg; on Saturdays with Jennifer Refici!</p>
 		  </div>
 		</a>
 		<a target="_blank" href="https://www.facebook.com/profile.php?id=1409804050">
