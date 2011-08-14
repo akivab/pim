@@ -38,7 +38,7 @@ a{ text-decoration: none; }
 #instructor-info p{ display: block;}
 #instructors a{ margin: 5px; padding: 5px; color: #E9F2F9;  background: #3C8DC5;  display: inline block; width: 300px; position: relative; left: 0; float: left; }
 #instructors a:hover{ background: #B2D1E5; color: #3C8DC5; }
-#instructors img{ width: 100px; height: 100px; position: relative; left: 0;}
+#instructors img{ width: 100px; height: 100px; position: relative; left: 0; margin: 5px; -moz-border-radius: 25px; border-radius: 25px;}
 #instructors div{ width: 180px; float: right; min-height: 150px; font-size: 10pt;}
 #instructors div p{ font-size: 12pt; padding-top: 5px;} 
 #instructors div h3{ padding: 5px 0 5px 0; }

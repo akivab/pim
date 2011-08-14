@@ -20,21 +20,21 @@
 	      <p>Our current instructors are:</p>
 	      <div id="instructors">
 		<a target="_blank" href="https://www.facebook.com/profile.php?id=1402701845">
-		  <img src="/images/Woman.png">
+		  <img src="/images/heidi.jpg">
 		  <div class="instructor-text">
                     <h3>Heidi Muller</h3>
                     <p>Teaching Zumba&reg;, Turbokick&reg;, and Yoga on Mondays, Tuesdays, Wednesdays, and Thursdays, as well as Zumba&reg; on Saturdays with Jennifer Refici!</p>
 		  </div>
 		</a>
 		<a target="_blank" href="https://www.facebook.com/profile.php?id=1409804050">
-		  <img src="/images/Woman.png">
+		  <img src="/images/jen.jpg">
 		  <div class="instructor-text">
                     <h3>Jennifer Refici</h3>
                     <p>Hey Everyone! I will be teaching Zumba&reg; on Wednesdays and Fridays from 5-6.</p>
 		  </div>
 		</a>
 		<a href="https://www.facebook.com/profile.php?id=677173242">
-		  <img src="/images/Woman.png">
+		  <img src="/images/carol.jpg">
 		  <div class="instructor-text">
                     <h3>Carol Fague</h3>
                     <p>Teaching Zumba&reg; on Tuesdays from 4-5pm!</p>
