@@ -28,6 +28,7 @@ a{ text-decoration: none; }
 .footer a img{width: 36px; height: 36px; position: relative; top: 10px; margin-left: 5px;}
 .body{ width: 970px; position: relative; margin: auto; } 
 .detailed-text h1{font-size: 36px; font-family: helvetica; color:white; padding-top: 30px; padding-bottom: 30px;}
+.detailed-text h2{font-size: 24px; font-family: helvetica; color:white; padding-bottom: 30px;}
 .detailed-text img{ position: relative; left: 100px; }
 #imgdiv img{ width: 100px; height: 100px;}
 #main-info{ position: absolute; left: 300px;  width: 600px;}
