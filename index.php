@@ -42,7 +42,7 @@
    ?>
     <div class="footer">
       <div class="body">
-	<div>Palmyra in Motion &copy 2011</div>
+	<div>Palmyra in Motion, LLC &copy 2011</div>
 	<div>112 Fayette St, Palmyra NY</div>
 	<div>contact@palmyrainmotion.com</div>
 
