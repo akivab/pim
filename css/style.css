@@ -12,7 +12,7 @@ a{ text-decoration: none; }
 .menu .selected{ background: #6FB7E9; }
 .menu li a:hover{  background: #6FB7E9; }
 .directions-top{ background: #6FB7E9;padding-left: 30px; padding-right: 30px;}
-.main-top{ background: #6FB7E9;padding-left: 30px; padding-right: 30px; min-height: 390px; overflow: hidden;}
+.main-top{  background: #6FB7E9;padding-left: 30px; padding-right: 30px; min-height: 390px; overflow: hidden;}
 .instructor-top{ background: #6FB7E9;  min-height: 700px; overflow: hidden;}
 .schedule-top{ background: #6FB7E9;  height: 500px; overflow: hidden;}
 .main-bottom{ background: #E9F2F9; height: 200px;}
@@ -28,7 +28,7 @@ a{ text-decoration: none; }
 .footer a img{width: 36px; height: 36px; position: relative; top: 10px; margin-left: 5px;}
 .body{ width: 970px; position: relative; margin: auto; } 
 .detailed-text h1{font-size: 36px; font-family: helvetica; color:white; padding-top: 30px; padding-bottom: 30px;}
-.detailed-text h2{font-size: 24px; font-family: helvetica; color:white; padding-bottom: 30px;}
+.detailed-text h2{font-size: 24px; font-family: helvetica; padding-bottom: 30px;}
 .detailed-text img{ position: relative; left: 100px; }
 #imgdiv img{ width: 100px; height: 100px;}
 #main-info{ position: absolute; left: 300px;  width: 600px;}
@@ -37,7 +37,7 @@ a{ text-decoration: none; }
 #instructor-info{ position: relative;}
 #instructor-info iframe{ float: right;  margin-left: 5px; margin-right: 5px;}
 #instructor-info p{ display: block;}
-#instructors a{ margin: 5px; padding: 5px; color: #E9F2F9;  background: #3C8DC5;  display: inline block; width: 300px; position: relative; left: 0; float: left; }
+#instructors a{ margin: 5px; padding: 5px;  background: #3C8DC5;  display: inline block; width: 300px; position: relative; left: 0; float: left; }
 #instructors a:hover{ background: #B2D1E5; color: #3C8DC5; }
 #instructors img{ width: 100px; height: 100px; position: relative; left: 0; margin: 5px; -moz-border-radius: 25px; border-radius: 25px;}
 #instructors div{ width: 180px; float: right; min-height: 150px; font-size: 10pt;}
@@ -46,7 +46,7 @@ a{ text-decoration: none; }
 
 #directions{ margin-top: 30px;}
 #parking{ clear: both; }
-.directions-and-parking h3{ font-size: 20pt; font-family: helvetica; color:black; }
+.directions-and-parking h3{ font-size: 20pt; font-family: helvetica; }
 .directions-and-parking h2{ color: white; font-size: 20pt; font-family: helvetica; margin-bottom: 30px; }
 #icon img{ width: 100px; height: 100px;}
 #icon {position: absolute; top: 15px; right: 15px; width: 120px; height: 120px; font-family: 'The Girl Next Door'; text-align: center;}
