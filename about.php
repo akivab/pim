@@ -5,6 +5,7 @@
 	    <h1>About</h1>
    	    <h2>Find out why people are getting excited to dance!</h2>	  
 	    <p><a target="_blank" href="http://www.waynepost.com/feature/x386669556/Move-to-the-music-at-Palmrya-in-Motion#breaking_news"><img width="300" src="images/wayne_logo.png" /></a></p>
+	    <p><iframe src="http://www.waynepost.com/feature/x386669556/Move-to-the-music-at-Palmrya-in-Motion#breaking_news" width="960" height="600px"></iframe></p>
 	<p>&nbsp;</p>
 	  </div>
 	</div>
