@@ -17,7 +17,7 @@
 	  <ul>
 
 	    <?php
-	       $words = array( "contact", "about", "directions", "instructors", "schedules","home");
+	       $words = array( "contact", "prices", "about", "directions", "instructors", "schedules");
 	       for($i=0; $i<count($words); $i++){
 	          $j = $words[$i];
 		  echo "<li><a href='?p=$j'";

@@ -9,10 +9,13 @@ a{ text-decoration: none; }
 .body-text a{ color: white; }
 .menu{  font-family: helvetica; width: 600px; height: 30px; position: absolute; bottom: 0px; right: 0px;}
 .menu li a{ color: white; background:  black; float: right; height: 20px; padding: 5px; text-align: center; width: 90px;}
+
+
 .menu .selected{ background: #6FB7E9; }
 .menu li a:hover{  background: #6FB7E9; }
-.directions-top{ background: #6FB7E9;padding-left: 30px; padding-right: 30px;}
-.main-top{  background: #6FB7E9;padding-left: 30px; padding-right: 30px; min-height: 390px; overflow: hidden;}
+
+.directions-top{ background: #6FB7E9;  padding-left: 30px; padding-right: 30px;}
+.main-top{  background: #6FB7E9; padding-left: 30px; padding-right: 30px; min-height: 390px; overflow: hidden;}
 .instructor-top{ background: #6FB7E9;  min-height: 700px; overflow: hidden;}
 .schedule-top{ background: #6FB7E9;  height: 500px; overflow: hidden;}
 .main-bottom{ background: #E9F2F9; height: 200px;}
