@@ -33,11 +33,10 @@
                     <p>Hey Everyone! I will be teaching Zumba&reg; on Wednesdays and Fridays from 5-6.</p>
 		  </div>
 		</a>
-		<a href="https://www.facebook.com/profile.php?id=677173242">
-		  <img src="/images/carol.jpg">
+		<a href="http://www.facebook.com/profile.php?id=1272407509">
+		  <img src="/images/leah.jpg">
 		  <div class="instructor-text">
-                    <h3>Carol Fague</h3>
-                    <p>Teaching Zumba&reg; on Tuesdays from 4-5pm!</p>
+		   <h3>Leah Bamberger</h3>
 		  </div>
 		</a>
 	      </div>
