@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Palmyra in Motion</title>
-    <meta name="description" content="A fitness center for Palmyra, coming Summer 2011." />
+    <meta name="description" content="A fitness center for Palmyra." />
     <meta name="keywords" content="fitness, palmyra, rochester, zumba, ballet, dancing, dance studio" />
     <link href='http://fonts.googleapis.com/css?family=The+Girl+Next+Door' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/css/reset.css" />

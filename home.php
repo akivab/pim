@@ -6,7 +6,7 @@
           </div>
           <div class="body-text">
             <h1>Fitness. Wellness. Health.</h1>
-            <p>A new fitness center is coming to Palmyra this summer. Conveniently located at <a href="?p=directions">112 Fayette Street</a>.</p>
+            <p>A new fitness center has come to Palmyra. Conveniently located at <a href="?p=directions">112 Fayette Street</a>.</p>
           </div>
         </div>
       </div>
