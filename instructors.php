@@ -19,11 +19,11 @@
 	      <p><a href="javascript: apply()">Apply to instruct.</a></p>
 	      <p>Our current instructors are:</p>
 	      <div id="instructors">
-		<a target="_blank" href="https://www.facebook.com/profile.php?id=1402701845">
-		  <img src="/images/heidi.jpg">
+		<a target="_blank" href>
+		  <img src="/images/hailee.jpg">
 		  <div class="instructor-text">
-                    <h3>Heidi Muller</h3>
-                    <p>Teaching Zumba&reg;, Turbokick&reg;, and Yoga on Mondays, Tuesdays, Wednesdays, and Thursdays, as well as Zumba&reg; on Saturdays with Jennifer Refici!</p>
+                    <h3>Hailee Winston</h3>
+                    <p>Hailee loves to teach Zumba.  Hailee lives in Palmyra, and is currently a senior at  Pal-Mac High School.</p>
 		  </div>
 		</a>
 		<a target="_blank" href="https://www.facebook.com/profile.php?id=1409804050">
