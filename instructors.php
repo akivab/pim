@@ -26,13 +26,6 @@
                     <p>Hailee loves to teach Zumba.  Hailee lives in Palmyra, and is currently a senior at  Pal-Mac High School.</p>
 		  </div>
 		</a>
-		<a target="_blank" href="https://www.facebook.com/profile.php?id=1409804050">
-		  <img src="/images/jen.jpg">
-		  <div class="instructor-text">
-                    <h3>Jennifer Refici</h3>
-                    <p>Hey Everyone! I will be teaching Zumba&reg; on Wednesdays and Fridays from 5-6.</p>
-		  </div>
-		</a>
 		<a href="http://www.facebook.com/profile.php?id=1272407509">
 		  <img src="/images/leah.jpg">
 		  <div class="instructor-text">
