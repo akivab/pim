@@ -17,19 +17,25 @@
 		}
 	      </script>
 	      <p><a href="javascript: apply()">Apply to instruct.</a></p>
+	      <p><div id="alert">
+		  Leah hopes to be certified in more areas soon. Classes in gentle yoga and group exercise will be added over time. At this time, Hailee is only coteaching with Leah whenever she has some free time. Please check the schedule on ongoing basis.
+		</div></p>
+			
 	      <p>Our current instructors are:</p>
 	      <div id="instructors">
-		<a target="_blank" href>
+		<a href>
+		  <img src="/images/leah.jpg">
+		  <div class="instructor-text">
+		   <h3>Leah Bamberger</h3>
+		   <p>Leah received her Zumba license this past October after years of attending Zumba classes across Rochester.</p>
+		  </div>
+		</a>
+
+		<a href>
 		  <img src="/images/hailee.jpg">
 		  <div class="instructor-text">
                     <h3>Hailee Winston</h3>
                     <p>Hailee loves to teach Zumba.  Hailee lives in Palmyra, and is currently a senior at  Pal-Mac High School.</p>
-		  </div>
-		</a>
-		<a href="http://www.facebook.com/profile.php?id=1272407509">
-		  <img src="/images/leah.jpg">
-		  <div class="instructor-text">
-		   <h3>Leah Bamberger</h3>
 		  </div>
 		</a>
 	      </div>

@@ -67,3 +67,4 @@ a.place-image { color: black; z-index:9999;}
 #mapkey{ position: relative; left: 30px; top: 240px; font-family: helvetica; background: rgba(256,256,256,0.8);}
 #mapkey tr td{  padding-bottom: 5px; padding-right: 5px; padding-left: 5px; }
 #mapkey{ -moz-border-radius: 5px; border-radius: 5px; padding: 5px}
+#alert{ color: red; background-color: rgba(256,256,256,0.5); padding: 10px; font-family: helvetica; }

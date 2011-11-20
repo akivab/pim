@@ -5,9 +5,11 @@
             <img src="/images/dancers2.png" />
           </div>
           <div class="body-text">
-            <h1>Fitness. Wellness. Health.</h1>
+	    <h1>Fitness. Wellness. Health.</h1>
             <p>A new fitness center has come to Palmyra. Conveniently located at <a href="?p=directions">112 Fayette Street</a>.</p>
+	    	    
           </div>
+	  <iframe src="PIMDec11.pdf" width="750px" height="900px" style="margin: auto; margin-top:400px;"></iframe>
         </div>
       </div>
       <div class="main-bottom">

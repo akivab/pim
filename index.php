@@ -7,6 +7,40 @@
     <link href='http://fonts.googleapis.com/css?family=The+Girl+Next+Door' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/css/reset.css" />
     <link rel="stylesheet" href="/css/style.css" />
+    <script type='text/javascript'>
+      function loadAlert(){
+	  var src = "http://spreadsheets.google.com/feeds/list/taTMJX_4HYu82IECeoqMaRw/od6/public/basic?alt=json-in-script&callback=addAlert";
+	  var script = document.createElement("script");
+	  script.setAttribute('src', src);
+	  script.setAttribute('id', 'jsonScript');
+	  script.setAttribute('type', 'text/javascript');
+	  document.documentElement.firstChild.appendChild(script);
+      }
+      
+       function addAlert(json){
+	   var dl = document.createElement('dl');
+	   dl.setAttribute('id', 'output');
+
+	   for (var i = 0; i < json.feed.entry.length; i++) {
+    
+	       var entry = json.feed.entry[i];
+    
+	       var dt = document.createElement('dt');
+	       var title = document.createTextNode(entry.title.$t);
+	       dt.appendChild(title);
+    
+	       var dd = document.createElement('dd');
+	       var content = document.createTextNode(entry.content.$t);
+	       dd.appendChild(content);
+  
+	       dl.appendChild(dt);
+	       dl.appendChild(dd);
+	   }
+
+	   document.getElementById('alert').appendChild(dl);
+       }
+
+    </script>
   </head>
   <body>
     <div class="header">
