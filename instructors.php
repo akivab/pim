@@ -30,7 +30,7 @@
 		   <p>Leah received her Zumba license this past October after years of attending Zumba classes across Rochester.</p>
 		  </div>
 		</a>
-
+		<!--
 		<a href>
 		  <img src="/images/hailee.jpg">
 		  <div class="instructor-text">
@@ -38,6 +38,7 @@
                     <p>Hailee loves to teach Zumba.  Hailee lives in Palmyra, and is currently a senior at  Pal-Mac High School.</p>
 		  </div>
 		</a>
+		-->
 	      </div>
 	    </div>
 	  </div>
