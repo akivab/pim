@@ -47,6 +47,7 @@
       <div class="body">
 	<a href="/"><div id="logo">palmyra<br />in motion</div></a>
 	<!-- start of menu -->
+
 	<div class="menu">
 	  <ul>
 

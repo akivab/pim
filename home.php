@@ -7,9 +7,8 @@
           <div class="body-text">
 	    <h1>Fitness. Wellness. Health.</h1>
             <p>A new fitness center has come to Palmyra. Conveniently located at <a href="?p=directions">112 Fayette Street</a>.</p>
-	    	    
+	    <p>Follow us on <a target="_blank" href="https://www.facebook.com/pages/Palmyra-In-Motion/210715818959695">Facebook</a> for announcements!</p>
           </div>
-	  <iframe src="PIMDec11.pdf" width="750px" height="900px" style="margin: auto; margin-top:400px;"></iframe>
         </div>
       </div>
       <div class="main-bottom">
