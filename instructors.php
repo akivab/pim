@@ -18,7 +18,7 @@
 	      </script>
 	      <p><a href="javascript: apply()">Apply to instruct.</a></p>
 	      <p><div id="alert">
-		  Leah hopes to be certified in more areas soon. Classes in gentle yoga and group exercise will be added over time. At this time, Hailee is only coteaching with Leah whenever she has some free time. Please check the schedule on ongoing basis.
+		  Leah got her certification in gentle yoga this past February. Classes in gentle yoga and group exercise will be added over time. Please check the schedule on ongoing basis.
 		</div></p>
 			
 	      <p>Our current instructors are:</p>
@@ -27,7 +27,7 @@
 		  <img src="/images/leah.jpg">
 		  <div class="instructor-text">
 		   <h3>Leah Bamberger</h3>
-		   <p>Leah received her Zumba license this past October after years of attending Zumba classes across Rochester.</p>
+		   <p>Leah received her Zumba license this past October after years of attending Zumba classes across Rochester. She recently got her license in gentle yoga as well.</p>
 		  </div>
 		</a>
 		<!--
