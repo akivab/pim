@@ -27,7 +27,7 @@
 		  <img src="/images/leah.jpg">
 		  <div class="instructor-text">
 		   <h3>Leah Bamberger</h3>
-		   <p>Leah received her Zumba license this past October after years of attending Zumba classes across Rochester. She recently got her license in gentle yoga as well.</p>
+		   <p>Leah received her Zumba license this past October after years of attending Zumba classes across Rochester. She recently got her license in gentle yoga as well, and is trained in CPR.</p>
 		  </div>
 		</a>
 		<!--
